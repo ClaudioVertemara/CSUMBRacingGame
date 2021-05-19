@@ -1,16 +1,8 @@
-# CSUMBRacingGame     
-
-![](https://img.shields.io/github/last-commit/HerndonE/CSUMBRacingGame)
-![](https://img.shields.io/github/repo-size/HerndonE/CSUMBRacingGame)
-![](https://img.shields.io/github/contributors/HerndonE/CSUMBRacingGame)
-![](https://img.shields.io/github/languages/top/HerndonE/CSUMBRacingGame) 
-![](https://img.shields.io/github/stars/HerndonE/CSUMBRacingGame?style=social)
-![](https://img.shields.io/github/forks/HerndonE/CSUMBRacingGame?style=social)
+# CSUMBRacingGame
 
 1. [Discord Server Link](https://discord.gg/heMjATN)    
 2. [Download Game Here](https://github.com/HerndonE/CSUMBRacingGame/blob/master/Game/CSUMB%20Racing.zip?raw=true)    
-
-# Game Images:    
+   
 <p float="left">
   <img src="https://github.com/HerndonE/CSUMBRacingGame/blob/master/Images/Screenshot%20(4).png" width="400" />
   <img src="https://github.com/HerndonE/CSUMBRacingGame/blob/master/Images/Screenshot%20(5).png" width="400" /> 
@@ -59,7 +51,3 @@ Role: 3D Modeler
 ### Josue Gonzalez
 Role: Menu UI    
 [<img align="left" alt="Josue | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]( https://www.linkedin.com/in/josue-gonzalez-b1a003147/)         
-    
-## Issues
-If you find any bugs or issues related to our racing game please join the Real Game Changers Server mentioned earlier in the README. In addition, please provide screenshots of the bugs and describe what you did before the error occurred.
-
